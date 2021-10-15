@@ -1,0 +1,5 @@
+br\com\aplicacaofinanceira\controlefinanceiro\ControlefinanceiroApplication.class
+br\com\aplicacaofinanceira\controlefinanceiro\controllers\TestController.class
+br\com\aplicacaofinanceira\controlefinanceiro\entities\EntityTest.class
+br\com\aplicacaofinanceira\controlefinanceiro\repositories\TestRepository.class
+br\com\aplicacaofinanceira\controlefinanceiro\swaggerconf\SwaggerConfig.class
